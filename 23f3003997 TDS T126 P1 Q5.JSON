@@ -1,0 +1,8 @@
+{
+  "prompt": "An emotional, minimalist, and organic data visualization titled 'LUNGS OF THE LAND' set against a deep, dark charcoal background. On the right, a lush and vibrant lung-shaped lobe composed of thousands of glowing emerald and forest green particles, representing 148 sq km of forest gain. On the left, a sparse and decaying lung-shaped lobe composed of deep crimson and charred-grey particles that appear to be falling or dissolving like ash, representing 92 sq km of forest loss. A thin, fragile, vascular grey stem connects the two halves. No bars, no lines, no axes, and no legend. The visual grammar uses color and particle density to convey the inhale of growth and the exhale of extinction. Cinematic lighting, conceptual art style, high contrast.",
+  "model": "DALL·E 3",
+  "dataset_name": "India State of Forest Report (ISFR) 2021: Forest Cover in Tiger Corridors",
+  "dataset_url": "https://fsi.nic.in",
+  "insight": "The visualization reveals the fragile heartbeat of India's tiger corridors, where the roar of new growth in regions like Bhadra is being muffled by the silent, rapid thinning of ancient habitats in corridors like Corbett.",
+  "publish_email": true
+}
