@@ -2,7 +2,6 @@
   "prompt": "Need an image, with minimum side at 1024px,  to explain the following data science concept Outlier detection in the Dada photomontage and collage (1916–1924) tradition, with the following Constraints,You must be able to name the movement, the approximate period, and at least two specific visual characteristics you targeted.The concept must still be discernible in the image — a viewer who knows both the concept and the tradition should be able to recognize both.Your approach must engage the grammar of the tradition — its compositional rules, color logic, line quality, typographic conventions, or spatial organization — not merely its surface appearance or general era.Single frame only.",
   "model": "Gemini 3.1 Flash image model",
   "concept": "Outlier Detection",
-  "paradox": "Goodhart's Law",
   "tradition_name": "Dada photomontage and collage tradition",
   "tradition_period": "1916–1924",
   "tradition_approach": "The usage of posters, glues and newspapers.",
