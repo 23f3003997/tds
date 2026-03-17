@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate an image that renders Outlier Detection idea as a concrete, physical, real-world scene — one that a viewer who does not know the concept could look at and experience something true about it, even without being able to name what they are seeing. The concept must be recognizable to a domain expert looking at the image alone. The scene must feel like it exists in the physical world. The constraints are,1. No diagrams, graphs, mathematical notation, equations, or text of any kind within the image. 2. No floating labels, annotation overlays, or anything that would not exist in an actual physical scene. 3. The scene must be physically plausible — it should look like something a photographer could have taken or a painter could have observed in the world. 4. The concept must be identifiable by a domain expert from the image alone, without requiring your explanation.",
+  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
+  "concept": "Outlier Detection",
+  "metaphor": "max 30 words: what is the physical scene, and what structural feature of it maps to the concept?"
+}
